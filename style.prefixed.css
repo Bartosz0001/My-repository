@@ -1,0 +1,56 @@
+/* Global */
+
+body {
+	background-color: #081264;
+	color: #D4D9FF;
+	margin: 0;
+}
+
+.container {
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.page-title {
+	font-size: 45px;
+	margin: 40px 0 2px 0;
+	text-align: center;
+	padding: 0;
+}
+
+.page-subtitle {
+	font-size: 15px;
+	padding: 0;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+/* Header */
+
+.header {
+	height: 150px;
+	background-color: #530808;
+	padding: 50px;
+}
+
+/* Content */
+
+.content p {
+	font-size: 15px;
+	text-align: center;
+	padding: 5px 0;
+	word-spacing: 2px;
+}
+
+/* Footer */
+
+.footer {
+	background-color: #530808;
+}
+
+.footer p {
+	font-size: 10px;
+	text-align: center;
+	padding: 5px;
+	word-spacing: 1px;
+}
