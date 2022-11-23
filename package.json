@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Bartosz0001/My-repository#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.27.10"
   }
 }
